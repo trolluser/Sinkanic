@@ -1,0 +1,2 @@
+# Sinkanic
+Trimar Battleships repository
